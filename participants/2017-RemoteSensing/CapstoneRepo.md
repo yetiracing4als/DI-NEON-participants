@@ -4,10 +4,10 @@
 
 9:35 Classification:
 
-10:00 Leaf Chemistry:
+10:00 Leaf Chemistry: NA - private repo given ongoing work
 
 10:25 Albedo: https://github.com/yetiracing4als/2017-NEON-DI-JAMB.git
 
 10:55 Phenocam:
 
-11:20 Understory: https://github.com/aklangston/NEON-DI-2017-understory-group.git
+11:20 Understory: https://github.com/aklangston/NEON-DI-2017-understory-group
